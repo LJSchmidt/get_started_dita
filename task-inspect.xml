@@ -51,5 +51,6 @@
   </taskbody>
   <related-links>
     <link format="dita" href="concept-purpose.xml" type="concept"/>
+    <link format="dita" href="task-master.xml" type="concept"/>
   </related-links>
 </task>
