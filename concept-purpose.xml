@@ -9,12 +9,9 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <author>Your name</author>
-  <title>My Abstract</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>Purpose</title>
+  <shortdesc>Purpose for periodic meter recalibration</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>Mettler-Toledo recommends that M800 instruments receive annual recalibration at the factory.  This document provides step by step instructions for technicians to perform recalibration of Mettler-Toledo M800 resistivity transmitters returned by customers for routine service.</p>
   </conbody>
 </concept>
